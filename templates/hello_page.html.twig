@@ -1,7 +1,15 @@
 {% extends 'base.html.twig' %}
 
 {% block main %}
-    hello {{ app.request.query.get('name') | default('world') }}!
-
+    
+    <div>
+        {# hello {{ app.request.query.get('name') | default('world') }}! #}
+        HELLO {{ name }}
+    </div>
+    
+    <div>
+        {# My lovely varible: {{ some_variable | default('i am a lovely default variable')}} #}
+    </div>
+    
     {# {{ dump() }} #}
 {% endblock %}
