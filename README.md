@@ -22,3 +22,8 @@ https://www.youtube.com/watch?v=yz56pv8fi_c
 https://codereviewvideos.com/course/symfony-4-beginners-tutorial/video/easy-way-to-use-twig
 
 https://www.youtube.com/watch?v=Upmo5Ckts1Y
+
+4 - Symfony Controllers - Making Your App Work For You
+
+https://codereviewvideos.com/course/symfony-4-beginners-tutorial/video/symfony-controllers
+
