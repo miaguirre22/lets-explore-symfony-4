@@ -1,1 +1,7 @@
-hello world!
+{% extends 'base.html.twig' %}
+
+{% block main %}
+    hello {{ app.request.query.get('name') | default('world') }}!
+
+    {# {{ dump() }} #}
+{% endblock %}

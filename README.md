@@ -17,3 +17,8 @@ https://codereviewvideos.com/course/symfony-4-beginners-tutorial/video/symfony-m
 
 https://www.youtube.com/watch?v=yz56pv8fi_c
 
+3 - Let Twig Do The Hard Work
+
+https://codereviewvideos.com/course/symfony-4-beginners-tutorial/video/easy-way-to-use-twig
+
+https://www.youtube.com/watch?v=Upmo5Ckts1Y
